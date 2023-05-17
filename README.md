@@ -22,5 +22,14 @@ https://github.com/indongyoo/functional-javascript-01
   |05/11(목)|제너레이터와 이터레이터, map/filter/reduce|
   |05/13(토)|go/pipe/curry, 장바구니 예제|
   |05/14(일)|버퍼 및 복습|
+- 개인적인 사정으로 조금 늦어져서 05/17일까지 진행
 
 </br>
+
+### 2주차 (05/18 ~ 05/21)
+- 학습범위: ~ Section6 (지연성1)
+- Content
+  |날짜|공부내용|
+  |---|---|
+  |05/18(목)|1주차 범위 전체 복습 + Section5|
+  |05/19(금) ~ 05/21(일)|Section6|
